@@ -6,3 +6,10 @@
 
 
 Proyecto pensado para crear un tres en raya para dos jugadores usando Python.
+
+# Tests
+Puedes descargar el codigo para probar su funcionamiento de esta manera
+
+```shell
+git clone https://github.com/titicuevas/TresenRaya
+```
