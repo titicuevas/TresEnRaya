@@ -1,3 +1,3 @@
-<img src="https://ibb.co/TWyhxQr" width="30%" alt="tres_en_raya" align="right">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/tLRCT03/tres.png" alt="tres" border="0" align="right"></a>
 
 # Tres en Raya en Python
