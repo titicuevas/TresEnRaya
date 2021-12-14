@@ -2,6 +2,6 @@
 
 # Tres en Raya en Python
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
->Informacion
+> Informacion
 
 Proyecto pensado para crear un tres en raya para dos jugadores usando Python.
